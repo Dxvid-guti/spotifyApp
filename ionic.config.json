@@ -1,0 +1,7 @@
+{
+  "name": "spotify-concept",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
